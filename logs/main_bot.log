@@ -1,0 +1,42 @@
+2025-11-27 04:30:57 - [INFO] - main_bot - Registered adhkar job for chat -1003020824598 every 5 minutes
+2025-11-27 04:30:57 - [INFO] - main_bot - Restored schedule for chat -1003020824598
+2025-11-27 04:30:57 - [INFO] - main_bot - Restored bot: HamsaTepBot
+2025-11-27 04:30:57 - [INFO] - main_bot - Restored bot: Julian_TepBot
+2025-11-27 04:30:57 - [INFO] - main_bot - Restored bot: MakerProtectionBot
+2025-11-27 04:30:57 - [INFO] - main_bot - Restored bot: Tepthon3Bot
+2025-11-27 04:30:57 - [INFO] - main_bot - Restored bot: Tepthon3Bot
+2025-11-27 04:30:57 - [INFO] - main_bot - Starting main bot...
+2025-11-27 04:30:58 - [ERROR] - main_bot - Error starting Adhkar bot: The token `8549651584:AAE0KXEPhiAB69uaMNeESJZfL_MEpo15Guc` was rejected by the server.
+2025-11-27 04:30:58 - [INFO] - main_bot - Bot started successfully!
+2025-11-27 04:30:58 - [INFO] - main_bot - AI Bot started successfully
+2025-11-27 04:30:59 - [ERROR] - main_bot - Error starting Guard bot: The token `8237346441:AAHm-UEalSjDw7I1gZplSXJjUGlt_sjPKzU` was rejected by the server.
+2025-11-27 04:30:59 - [ERROR] - main_bot - Error starting Adhkar bot: The token `8054391610:AAEo1pwulYZcJK_o691_60f4IRBfK9r93QU` was rejected by the server.
+2025-11-27 04:30:59 - [ERROR] - main_bot - Error starting AI bot: The token `7761137248:AAHYgrn_eYOp3XUqM3ln0WRS0LHYTnQTO7g` was rejected by the server.
+2025-11-27 04:34:18 - [INFO] - main_bot - Registered adhkar job for chat -1003020824598 every 5 minutes
+2025-11-27 04:34:18 - [INFO] - main_bot - Restored schedule for chat -1003020824598
+2025-11-27 04:34:18 - [INFO] - main_bot - Starting main bot...
+2025-11-27 04:34:19 - [INFO] - main_bot - Bot started successfully!
+2025-11-27 04:35:25 - [INFO] - main_bot - handle_token called by user 8087077168, token starts with: 8549651584:AAEu3LIYA
+2025-11-27 04:35:25 - [INFO] - main_bot - User 8087077168 state: {'creating': 'sticker'}, creating_type: sticker
+2025-11-27 04:35:29 - [INFO] - main_bot - NEW BOT CREATED: Type=sticker, Username=@Tepthon3Bot, Owner=8087077168
+2025-11-27 04:35:29 - [INFO] - main_bot - Sticker Bot started successfully
+2025-11-27 04:37:01 - [INFO] - main_bot - handle_token called by user 8087077168, token starts with: 7460088518
+2025-11-27 04:37:01 - [INFO] - main_bot - User 8087077168 state: {}, creating_type: None
+2025-11-27 04:37:25 - [INFO] - main_bot - New developer added: 7460088518 by 8087077168
+2025-11-27 04:39:10 - [INFO] - main_bot - handle_token called by user 7460088518, token starts with: التحكم في الصانع
+2025-11-27 04:39:10 - [INFO] - main_bot - User 7460088518 state: {}, creating_type: None
+2025-11-27 04:39:18 - [ERROR] - main_bot - Error sending adhkar to -1003020824598: Unauthorized
+2025-11-27 04:44:18 - [ERROR] - main_bot - Error sending adhkar to -1003020824598: Unauthorized
+2025-11-27 04:49:18 - [ERROR] - main_bot - Error sending adhkar to -1003020824598: Unauthorized
+2025-11-27 04:54:18 - [ERROR] - main_bot - Error sending adhkar to -1003020824598: Unauthorized
+2025-11-27 04:59:18 - [ERROR] - main_bot - Error sending adhkar to -1003020824598: Unauthorized
+2025-11-27 05:04:20 - [ERROR] - main_bot - Error sending adhkar to -1003020824598: Unauthorized
+2025-11-27 05:04:41 - [INFO] - main_bot - Registered adhkar job for chat -1003020824598 every 5 minutes
+2025-11-27 05:04:41 - [INFO] - main_bot - Restored schedule for chat -1003020824598
+2025-11-27 05:04:41 - [INFO] - main_bot - Restored bot: Tepthon3Bot
+2025-11-27 05:04:41 - [INFO] - main_bot - Starting main bot...
+2025-11-27 05:04:41 - [INFO] - main_bot - Bot started successfully!
+2025-11-27 05:08:21 - [WARNING] - main_bot - ⚠️ البوت متوقف على Replit - يعمل على Render فقط
+2025-11-27 05:08:21 - [WARNING] - main_bot - لو عايز تشغله هنا، أوقفه على Render الأول
+2025-11-27 05:23:24 - [WARNING] - main_bot - ⚠️ البوت متوقف على Replit - يعمل على Render فقط
+2025-11-27 05:23:24 - [WARNING] - main_bot - لو عايز تشغله هنا، أوقفه على Render الأول
